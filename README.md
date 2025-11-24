@@ -42,29 +42,7 @@ All steps—from preprocessing to evaluation—are clearly documented in the not
 
 ---
 
- Sample MRI Images
 
-Below are some sample MRI images from the dataset (multiple tumour classes):
-
-![Sample MRI Images](images/sample_images.png)
-
----
-
-Model Training History
-
-Shows how the model accuracy improves and loss decreases across epochs:
-
-![Training History](images/training_history.png)
-
----
-
- Confusion Matrix
-
-Visualizing how well the model predicts each tumour type:
-
-![Confusion Matrix](images/confusion_matrix.png)
-
----
 
 Technologies Used
 
@@ -97,29 +75,7 @@ All steps—from preprocessing to evaluation—are clearly documented in the not
 
 ---
 
- Sample MRI Images
 
-Below are some sample MRI images from the dataset (multiple tumour classes):
-
-![Sample MRI Images](images/sample_images.png)
-
----
-
- Model Training History
-
-Shows how the model accuracy improves and loss decreases across epochs:
-
-![Training History](images/training_history.png)
-
----
-
- Confusion Matrix
-
-Visualizing how well the model predicts each tumour type:
-
-![Confusion Matrix](images/confusion_matrix.png)
-
----
 
  Technologies Used
 
